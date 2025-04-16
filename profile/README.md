@@ -1,3 +1,6 @@
+<p align="right">
+  <a href="./README.en.md">🇺🇸 English</a>
+</p>
 # 👋 Bem-vindo à FGM Tech
 
 Somos especialistas em transformar ideias em soluções digitais robustas, escaláveis e inteligentes.
